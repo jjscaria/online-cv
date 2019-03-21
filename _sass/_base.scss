@@ -86,6 +86,7 @@ p {
             vertical-align: middle;
         }
         li {
+            .universal-inline-block;
             margin-bottom: 15px;
             &:last-child {
                 margin-bottom: 0;
