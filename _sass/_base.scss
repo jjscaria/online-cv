@@ -82,13 +82,13 @@ p {
     .contact-list {
         .fas, .fab {
             text-align: center;
-	    margin-right: 5px;
+	    margin-right: 10px;
             font-size: 25px;
             vertical-align: middle;
         }
         li {
             display: inline-block;
-	    margin-bottom: 15px;
+	    text-align: center;
             &:last-child {
                 margin-bottom: 0;
             }
