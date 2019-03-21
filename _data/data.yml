@@ -31,7 +31,7 @@ sidebar:
       - idiom: Malayalam
         level: Native
 
-    interests:
+    # interests:
       - item:
         link:
 
@@ -115,7 +115,7 @@ experiences:
         - Gathered and managed data using Microsoft Excel. 
         - Maintained 360SmartView application and reported bugs to Xerox and Kapsch developers. 
 
-projects:
+# projects:
     title:
     intro:
 
@@ -125,7 +125,7 @@ projects:
         tagline:
 
 
-publications:
+# publications:
     title:
     intro:
 
