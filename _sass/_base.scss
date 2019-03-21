@@ -88,6 +88,12 @@ p {
         li {
             .universal-inline-block;
             margin-bottom: 15px;
+            a {
+				display: block;
+				font-size: 1.4em;
+				margin: 0 5px;
+				text-decoration: none;
+			}
             &:last-child {
                 margin-bottom: 0;
             }
