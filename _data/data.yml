@@ -3,75 +3,50 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jithin Jones Scaria
+    tagline: DevOps Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: admin@jjscaria.com
+    phone:
+    website: jjscaria.com #do not add http://
+    linkedin: jjscaria
+    github: jjscaria
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Malayalam
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Experienced DevOps Engineer with a demonstrated history of working in the information technology industry. 
+      Skilled in Linux Operating System and CI/CD Tools & Techniques. 
+      Strong business development professional with a Bachelor’s Degree focused in 
+      Management Information Systems from University of Houston.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BBA in Management Information Systems
+      university: University of Houston
+      time: 2013 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,118 +58,102 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technology Architecture Delivery Senior Analyst
+      time: December 2018 - Present
+      company: Accenture, Houston, Texas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Infrastructure Specialist 
+        - Evaluate and recommend necessary changes in performance tuning, infrastructure design and monitoring.  
+        - Conduct extreme complex technical evaluation and suggest proposed physical architectures along with detailed designs.  
+        - Head responsibility to install, configure and maintain applications with IT infrastructure.  
+        - Analyze problems, evaluate technical issues, test, maintain, modify, integrate, monitor and ensure to automate software systems.  
+        - Conduct long range strategic plans of IT infrastructure plus operational aspects of application execution within infrastructure.  
+        - Involve actively in cross functional project teams to solve problems inclusive of different technologies. 
+        - Consult project engineers and managers to assure technology is suitably deployed and used to deliver applications along with technology solutions.  
+        - Conduct complex technical evaluation, design review and recommend proposed physical and logical designs. 
 
-          - Bullet point
-          - Bullet point
+        DevOps Senior Analyst 
+        - Created Jenkins and Azure Pipeline to check code coverage on Azure DevOps project. 
+        - Created documentation on how to create the above pipelines.  
+        - Migrated project from one Azure DevOps organization to another. 
+        - Created documentation on how to migrate Azure DevOps projects between organizations. 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior System Engineer
+      time: June 2016 - November 2018
+      company: Cerner Corporation, Kansas City, Missouri 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Drives testing of newer technologies and designs improved architecture using OpenStack, Docker, and Terraform for better solutions delivery to clients. 
+        - Identifies where applications are having performance/reliability issues; analyzes and formulates a proposed method to correct issues. 
+        - Tracks improvements, issues, changes, and bugs using Atlassian Jira, BMC Remedy, Splunk, New Relic, and Zabbix. 
+        - Partner across various internal teams and external vendors to ensure effective execution, leveraging scale and project demands. 
+        - Delivers long-term support and management; troubleshoots and resolves issues daily including off hours. 
+        - Configures and maintains over 1000 production Linux (RedHat and Oracle) servers using Chef and Jenkins. 
+        - Creates and modifies Chef cookbooks, recipes, environments and roles using Ruby and JavaScript (Github). 
+        - Installs, maintains, supports, or manages Cerner solutions and layered software for continuous delivery. 
+        - Educates clients and colleagues; created over 500 pages of documentation (Atlassian Confluence); trained new employees using the documentation created. 
+        - Coordinates with client for the testing of environment functionality (vSphere). 
+        - Scans servers for vulnerabilities using Nexpose(SME) and patch them periodically. 
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Associate Consultant
+      time: February 2015 – March 2016
+      company: Neudesic, Houston, Texas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        User Experience & SharePoint Support Specialist 
+        - Custom Application Development & SharePoint Support for Fortune 100 Oil & Gas Corporation 
+        - Tier 2 technical support for user base of over 3000. 
+        - Addressed operational issues using ServiceNow tracking software and other various tools (TFS, Visual Studio) 
+        - Administered and supported various servers in order to create, update and modify 100+ web applications and custom SharePoint solutions (SQL Server Management Studio, MS SQL Server 2008 & 2012 R2) 
+        - Resolved bugs and added features to web applications using SQL, C#, VB .NET, ASP .NET, XML and HTML 
 
-          - Bullet point
-          - Bullet point
+        Project Lead 
+        - Redesigned the existing onboarding curriculum of the company to train new hires more efficiently 
+        - Created guides, labs and tests on multilevel SharePoint, SQL, QA, ASP .NET, SSRS and Consulting topics 
+        - Integrated all content to the company’s Learning Management System (LMS) 
+
+        Application Support Analyst 
+        - Provided real-time support to different sites by remotely monitoring numerous pass/fail thresholds and addressing potential risks. 
+        - Gathered and managed data using Microsoft Excel. 
+        - Maintained 360SmartView application and reported bugs to Xerox and Kapsch developers. 
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title:
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title:
+        link:
+        tagline:
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title:
+    intro:
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title:
+        authors:
+        conference:
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Linux
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Chef
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Jenkins
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: Git
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Agile
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: CI/CD Tools & Techniques
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
