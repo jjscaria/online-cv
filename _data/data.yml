@@ -31,10 +31,6 @@ sidebar:
       - idiom: Malayalam
         level: Native
 
-    # interests:
-      - item:
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -114,25 +110,6 @@ experiences:
         - Provided real-time support to different sites by remotely monitoring numerous pass/fail thresholds and addressing potential risks. 
         - Gathered and managed data using Microsoft Excel. 
         - Maintained 360SmartView application and reported bugs to Xerox and Kapsch developers. 
-
-# projects:
-    title:
-    intro:
-
-    assignments:
-      - title:
-        link:
-        tagline:
-
-
-# publications:
-    title:
-    intro:
-
-    papers:
-      - title:
-        authors:
-        conference:
 
 skills:
     title: Skills &amp; Proficiency
