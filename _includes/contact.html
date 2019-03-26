@@ -1,10 +1,12 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
-    <li class="email"><span class="fas fa-envelope"></span>
-      <a href="mailto:admin@jjscaria.com"></a>
+    {% if sidebar.email %}
+    <li class="email"><i class="fas fa-envelope"></i>
+      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
-    
+    {% endif %}
+
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
@@ -13,19 +15,19 @@
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="https://jjscaria.com" target="_blank"></a>
+      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/jjscaria" target="_blank"></a>
+      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
-      <a href="https://github.com/jjscaria" target="_blank"></a>
+      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
     </li>
     {% endif %}
 
