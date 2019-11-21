@@ -37,7 +37,7 @@ career-profile:
         Jithin is an experienced DevOps Engineer with a demonstrated history of working in the healthcare and information technology industry. 
         He is skilled in Cloud architectures, Linux and Windows Operating Systems, and CI/CD Tools & Techniques.
         
-        Jithin is a ICAgile Certified Professional and currently in pursuit of AWS SysOps Admin certification. 
+        Jithin is a ICAgile Certified Professional and currently in pursuit of DevOps opportunities. 
         He is a strong business development professional with a Bachelor’s Degree focused in Management Information Systems from University of Houston.
 
 education:
@@ -60,20 +60,21 @@ experiences:
       company: Accenture, Houston, Texas
       details: |
         Infrastructure Specialist 
-        - Evaluate and recommend necessary changes in performance tuning, infrastructure design and monitoring.  
-        - Conduct extreme complex technical evaluation and suggest proposed physical architectures along with detailed designs.  
-        - Head responsibility to install, configure and maintain applications with IT infrastructure.  
-        - Analyze problems, evaluate technical issues, test, maintain, modify, integrate, monitor and ensure to automate software systems.  
-        - Conduct long range strategic plans of IT infrastructure plus operational aspects of application execution within infrastructure.  
-        - Involve actively in cross functional project teams to solve problems inclusive of different technologies. 
-        - Consult project engineers and managers to assure technology is suitably deployed and used to deliver applications along with technology solutions.  
-        - Conduct complex technical evaluation, design review and recommend proposed physical and logical designs. 
+        - Perform infrastructure discovery activities such as completing as-is infrastructure inventory and questionnaires at sites.
+        - Prepare infrastructure separation design and execution such as move separated content to the agreed ‘staging’ location.
+        - Coordinate with Site Execution Leads, Cross Functional Resources, and Technical teams to prep and execute migration.
+        - Involve actively in cross functional project teams to solve problems inclusive of different technologies.
+        - Consult project engineers and managers to assure technology is suitably deployed and used to deliver applications along with technology solutions.
+        - Facilitate the assessment and collection of unstructured data, to determine the target ownership of the data.
+        - Lead Telephony migration activities by facilitating communications between the client, its partners and third party vendors.
+ 
 
         DevOps Architect 
-        - Created Jenkins and Azure Pipeline to check code coverage on Azure DevOps project. 
-        - Created documentation on how to create the above pipelines.  
-        - Migrated project from one Azure DevOps organization to another. 
-        - Created documentation on how to migrate Azure DevOps projects between organizations. 
+        - Created Jenkins and Azure Pipeline to check code coverage on Azure DevOps project.
+        - Created documentation on how to create the above pipelines.
+        - Migrated project from one Azure DevOps organization to another.
+        - Created documentation on how to migrate Azure DevOps projects between organizations.
+        - Trained teammates how to use and troubleshoot the pipeline using the documentation. 
 
     - role: Senior System Engineer
       time: June 2016 - November 2018
@@ -124,21 +125,21 @@ skills:
 
     toolset:
       - name: Linux
-        level: 75%
+        level: 80%
 
       - name: Chef
-        level: 90%
+        level: 100%
 
       - name: Jenkins
         level: 80%
 
       - name: Git
-        level: 95%
+        level: 100%
 
       - name: Agile
-        level: 75%
+        level: 80%
 
       - name: CI/CD Tools & Techniques
-        level: 80%
+        level: 90%
 
 footer: >
