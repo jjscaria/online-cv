@@ -12,9 +12,9 @@ sidebar:
     avatar: jithin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: admin@jjscaria.com
+    email: jobs@jjscaria.com
     phone:
-    website: resume.jjscaria.com #do not add http://
+    website: #resume.jjscaria.com #do not add http://
     linkedin: jjscaria
     github: jjscaria
     gitlab:
