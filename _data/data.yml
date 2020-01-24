@@ -37,7 +37,7 @@ career-profile:
         Jithin is an experienced DevOps Engineer with a demonstrated history of working in the healthcare and information technology industry. 
         He is skilled in Cloud architectures, Linux and Windows Operating Systems, and CI/CD Tools & Techniques.
         
-        Jithin is a ICAgile Certified Professional and currently in pursuit of DevOps opportunities. 
+        Jithin is a AWS Certified Cloud Practitioner and ICAgile Certified Professional. He is currently in pursuit of DevOps opportunities. 
         He is a strong business development professional with a Bachelor’s Degree focused in Management Information Systems from University of Houston.
 
 education:
@@ -116,6 +116,9 @@ experiences:
 publications:
     title: Certifications
     papers:
+      - title: Certified Cloud Practitioner
+        authors: Issued by Amazon Web Services
+        conference: Credential ID -
       - title: ICAgile Certified Professional
         authors: Issued by ICAgile
         conference: Credential ID - 225-14227-3d920d66-5829-4374-821b-56e6b4cb6797
